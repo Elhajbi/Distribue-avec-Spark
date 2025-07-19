@@ -41,7 +41,7 @@ mvn clean package
 ```
 1. Exécuter l’application :
 ```bash
-   java -cp target/ton-jar.jar ma.enset.VentesParVilleEtAnnee
+   java -cp target/incidentapp-1.0-SNAPSHOT.jar ma.enset.VentesParVilleEtAnnee
 ```
 # Note :
 Assure-toi que le fichier ventes.txt est présent dans le répertoire de travail ou modifie le chemin dans le code.
